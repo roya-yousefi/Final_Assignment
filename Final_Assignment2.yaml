@@ -1,0 +1,5 @@
+Child1Genome: 'data/Child 1 Genome.csv'
+Child2Genome: 'data/Child 2 Genome.csv'
+Child3Genome: 'data/Child 3 Genome.csv'
+FatherGenome: 'data/Father Genome.csv'
+MotherGenome: 'data/Mother Genome.csv'
