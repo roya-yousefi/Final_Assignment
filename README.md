@@ -29,8 +29,8 @@ To analysis similarity i should do flow road map.
 
 - As chart shows we find MT chromosome in child has most similarity for both between children-mother and children-father
 - similarity between children and parents for 3 children is almost equal
-<img>
+<img src ="https://user-images.githubusercontent.com/126459883/234099697-2e994cb1-5b34-4fc4-954e-27a93f39c865.png"/>
 
 
 - As chart shows we find similarity between children with father and mother is almost equal.
-<img>
+<img src ="https://user-images.githubusercontent.com/126459883/234099714-4a00823b-4fd4-4cd9-b5b4-206a79493e10.png"/>
